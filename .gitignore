@@ -28,3 +28,6 @@ erl_crash.dump
 erl_crash.dump
 *.ez
 
+.idea/
+.DS_Store
+
